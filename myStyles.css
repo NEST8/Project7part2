@@ -1,0 +1,26 @@
+@charset "UTF-8"
+
+
+body {
+
+	background-color:;
+	background-image: url(bk1.jpg);
+	background-repeat: no-repeat; 
+}
+
+ul {
+	font-size: 30px;
+	color: white;
+	padding: 2em 2em;
+	opacity: 1.0;
+	list-style: none;
+	word-spacing: 150px;
+	margin width: 0px;
+	margin: 0px 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+   background-color: #c9c9c9;
+	
+} 
