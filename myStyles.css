@@ -3,13 +3,12 @@
 
 body {
 
-	background-color:;
 	background-image: url(bk1.jpg);
 	background-repeat: no-repeat; 
 }
 
 ul {
-	font-size: 20px;
+	font-size: 30px;
 	color: white;
 	padding: 2em 2em;
 	opacity: 1.0;
