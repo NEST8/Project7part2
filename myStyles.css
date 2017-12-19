@@ -19,8 +19,8 @@ ul {
 	margin: 0px 0px;
     margin-top: 0px;
     margin-bottom: 0px;
-    margin-right: 0px;
-    margin-left: 0px;
+    margin-right: 40px;
+    margin-left: 40px;
    background-color: #ec1c24;
 	
 }
@@ -30,7 +30,13 @@ h1{
 
 color: white;
 font-size: 30px;
-background-color: 662641;
+background-color: red;
+margin width: 0px;
+	margin: 0px 0px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 350px;
+    margin-left: 350px;
 
 
  }
